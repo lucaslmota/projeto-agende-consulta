@@ -1,0 +1,14 @@
+No cadastro de consulta aparece o erro no back -> null value in column "nome" of relation "usuarios"
+
+
+
+<img
+    v-if="post.id"
+    :src="
+      'http://localhost:3000/uploads/products/' + post.id + '?' + Math.random()
+    "
+    width="200"
+    height="150"
+    alt="Nada"
+    srcset=""
+  />
